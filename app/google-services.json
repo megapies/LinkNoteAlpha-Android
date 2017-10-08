@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "338496362392",
+    "firebase_url": "https://link-note-alpha.firebaseio.com",
+    "project_id": "link-note-alpha",
+    "storage_bucket": "link-note-alpha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338496362392:android:d05057b1664a510e",
+        "android_client_info": {
+          "package_name": "com.example.megapiespt.linknotealpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338496362392-f0hdamhde4ju1kq2518th9u84noktnjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.megapiespt.linknotealpha",
+            "certificate_hash": "1fc6b6025470ec9aa783f0d450f87d00b2f8f4f9"
+          }
+        },
+        {
+          "client_id": "338496362392-2ll6dl5bmeaaliv4tki4s545lrfae9r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRFfpHnKUuo41kP4plF4EN964WOrO4I78"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338496362392-2ll6dl5bmeaaliv4tki4s545lrfae9r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
